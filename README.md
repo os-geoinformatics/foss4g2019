@@ -1,7 +1,14 @@
 # FOSS4G 2019 Presentations
 
-A compilation of all presentations/slides of various talks from FOSS4G 2019 Bucharest shared via twitter. If you know link to any slides/presentation form FOSS4g 2019, please free to contribute missing slides either as a pull request of by shouting out on twitter [@programmerpunk](https://www.twitter.com/@programmerpunk)
+A compilation of all presentations/slides of various talks from FOSS4G 2019 Bucharest shared via twitter. If you know link to any slides/presentation form FOSS4g 2019, please free to contribute missing slides either as a pull request or by shouting out on twitter [@programmerpunk](https://www.twitter.com/@programmerpunk)
 
+## Workshops - Tutorials
+- [OSGeoLive Workshops](https://trac.osgeo.org/osgeolive/wiki/Live_GIS_Workshop_Install) by [Astrid Emde](https://www.twitter.com/astroidex)
+
+- .. Add your workshop
+
+
+## Presentations - Academic Track
 
 - [State of QGIS - Behind the Scene QGIS](https://docs.google.com/presentation/d/1D6WAnmH-1O448HlUiFaDmMoPnTR4EqDf2BHcQl5a4ZM/edit#slide=id.p) by [Andreas Neumann](https://www.twitter.com/AndiNeum)
 
@@ -31,9 +38,8 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Geospatial open data for everyone from global to local](https://www.slideshare.net/MapTiler/maptiler-presentation-at-foss4g-2019) by [MapTiler](https://www.twitter.com/MapTiler·Aug 29)
 
-- [OSGeoLive Workshops](https://trac.osgeo.org/osgeolive/wiki/Live_GIS_Workshop_Install) by [Astrid Emde](https://www.twitter.com/astroidex)
-
 - [Learn how to create web applications for your needs with Mapbender](https://t.co/jM0LfbXb5G?amp=1) by [Astrid Emde](https://www.twitter.com/astroidex)
 
 - [OpenMapTiles ](https://www.slideshare.net/MapTiler/openmaptiles-foss4g-2019) by [MapTiler](https://www.twitter.com/MapTiler)
+- ... add your slides/presentation.
 
