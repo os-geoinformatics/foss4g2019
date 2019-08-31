@@ -36,9 +36,9 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [SHOW ME THAT GOOD GRASS: A CALL CENTER FOR PASTORALISTS IN NORTHERN MALI](https://docs.google.com/presentation/d/1yLcv5WAS-owcsgfR2wMSsWWamKgFH7p7TivyDQJ1lB4/edit#slide=id.p3) by [Alex Orenstein](https://www.twitter.com/oren_sa)
 
-- [OSM-based 3D Street Map of Earth](https://github.com/ladislavhorky/osm-based-3d-street-map) by [Ladislav Horky](https://www.twitter.com/HorkyLadislav·Aug 28)
+- [OSM-based 3D Street Map of Earth](https://github.com/ladislavhorky/osm-based-3d-street-map) by [Ladislav Horky](https://www.twitter.com/HorkyLadislav)
 
-- [Geospatial open data for everyone from global to local](https://www.slideshare.net/MapTiler/maptiler-presentation-at-foss4g-2019) by [MapTiler](https://www.twitter.com/MapTiler·Aug 29)
+- [Geospatial open data for everyone from global to local](https://www.slideshare.net/MapTiler/maptiler-presentation-at-foss4g-2019) by [MapTiler](https://www.twitter.com/MapTiler)
 
 - [Learn how to create web applications for your needs with Mapbender](https://t.co/jM0LfbXb5G?amp=1) by [Astrid Emde](https://www.twitter.com/astroidex)
 
