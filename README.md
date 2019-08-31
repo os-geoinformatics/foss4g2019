@@ -7,6 +7,8 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Workshop and tutorial materials for solaris](https://github.com/CosmiQ/solaris_tutorials) by [Nick Weir](https://www.twitter.com/@NickWeir09)
 
+- [Postgis Qgis 3d](https://github.com/Oslandia/workshop-postgis-qgis-3d) by [oslandia](https://www.twitter.com/@oslandia)
+
 - .. Add your workshop
 
 
