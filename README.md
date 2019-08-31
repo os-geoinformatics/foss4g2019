@@ -45,5 +45,10 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 - [Learn how to create web applications for your needs with Mapbender](https://t.co/jM0LfbXb5G?amp=1) by [Astrid Emde](https://www.twitter.com/astroidex)
 
 - [OpenMapTiles ](https://www.slideshare.net/MapTiler/openmaptiles-foss4g-2019) by [MapTiler](https://www.twitter.com/MapTiler)
+
+- [STATE OF GEOEXT 2019](http://www.geographika.net/presentations/geoext-foss4g2019/index.html) by [Seth G](https://www.twitter.com/@geographika)
+
+- - [STATE OF MAPSERVER 2019](http://www.geographika.net/presentations/mapserver-foss4g2019/index.html) by [Seth G](https://www.twitter.com/@geographika)
+
 - ... add your slides/presentation.
 
