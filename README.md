@@ -2,6 +2,8 @@
 
 A compilation of all presentations/slides of various talks from FOSS4G 2019 Bucharest shared via twitter. If you know link to any slides/presentation form FOSS4g 2019, please free to contribute missing slides either as a pull request or by shouting out on twitter [@programmerpunk](https://www.twitter.com/@programmerpunk)
 
+:pencil2: This page is currently in update mode. Please check back for future updating of this list. If you found any link is broken or need updation, please inform us. 
+
 ## Workshops - Tutorials
 - [OSGeoLive Workshops](https://trac.osgeo.org/osgeolive/wiki/Live_GIS_Workshop_Install) by [Astrid Emde](https://www.twitter.com/astroidex)
 
