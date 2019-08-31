@@ -9,6 +9,8 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Postgis Qgis 3d](https://github.com/Oslandia/workshop-postgis-qgis-3d) by [oslandia](https://www.twitter.com/@oslandia)
 
+- [OSKARI Workshop](http://zakarfin.github.io/oskari_foss4g_2019/#/) by [Sami Mäkinen](https://www.twitter.com/@ZakarFin)
+
 - .. Add your workshop
 
 
@@ -48,7 +50,7 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [STATE OF GEOEXT 2019](http://www.geographika.net/presentations/geoext-foss4g2019/index.html) by [Seth G](https://www.twitter.com/@geographika)
 
-- - [STATE OF MAPSERVER 2019](http://www.geographika.net/presentations/mapserver-foss4g2019/index.html) by [Seth G](https://www.twitter.com/@geographika)
+-[STATE OF MAPSERVER 2019](http://www.geographika.net/presentations/mapserver-foss4g2019/index.html) by [Seth G](https://www.twitter.com/@geographika)
 
 - ... add your slides/presentation.
 
