@@ -62,5 +62,7 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [How digging into the earth for the fibre roll-out took GRASS to the cloud](https://mundialis.github.io/foss4g2019/digging_earth_ftth_grass_actinia/2019_foss4g_bucharest_digging_earth_ftth_grass_actinia.pdf) by [Markus Neteler](https://twitter.com/MarkusNeteler/)
 
+- [Using GPU-acceleration to Interact with Geotemporal Data at Planet-Scale](https://speakerdeck.com/omnisci/foss4g-using-gpu-acceleration-to-interact-with-geotemporal-data-at-planet-scale) by [Aaron Williams](https://wwww.twitter.com/_arw_)
+
 - ... add your slides/presentation.
 
