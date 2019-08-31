@@ -20,6 +20,12 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [State of QGIS - Behind the Scene QGIS](https://docs.google.com/presentation/d/1D6WAnmH-1O448HlUiFaDmMoPnTR4EqDf2BHcQl5a4ZM/edit#slide=id.p) by [Andreas Neumann](https://www.twitter.com/AndiNeum)
 
+- [State of GRASS GIS Project: 35 years is nothing!](https://mundialis.github.io/foss4g2019/grass_gis_35years/2019_foss4g_bucharest_grass78_35years.pdf) by [Markus Neteler](https://twitter.com/MarkusNeteler/) and [GRASS Development Team](https://twitter.com/GRASSGIS)
+
+- [STATE OF GEOEXT 2019](http://www.geographika.net/presentations/geoext-foss4g2019/index.html) by [Seth G](https://www.twitter.com/@geographika)
+
+- [STATE OF MAPSERVER 2019](http://www.geographika.net/presentations/mapserver-foss4g2019/index.html) by [Seth G](https://www.twitter.com/@geographika)
+
 - [Open Meteorological and Climate Data - Building bridges between user communities](https://speakerdeck.com/jwagemann/open-meteorological-and-climate-data-building-bridges-between-user-communities) by [Julia Wagemann](https://www.twitter.com/JuliaWagemann)
 
 - [GEO101](https://www.slideshare.net/Ramages/geo101-foss4g-august-2019) by [Steven Ramage](https://www.twitter.com/Steven_Ramage)
@@ -50,11 +56,11 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [OpenMapTiles ](https://www.slideshare.net/MapTiler/openmaptiles-foss4g-2019) by [MapTiler](https://www.twitter.com/MapTiler)
 
-- [STATE OF GEOEXT 2019](http://www.geographika.net/presentations/geoext-foss4g2019/index.html) by [Seth G](https://www.twitter.com/@geographika)
-
-- [STATE OF MAPSERVER 2019](http://www.geographika.net/presentations/mapserver-foss4g2019/index.html) by [Seth G](https://www.twitter.com/@geographika)
-
 - [CALCULATING CO2 EMISSIONS FOR URBAN LAND USE PLANNING WITH FOSS4G TOOLS](https://docs.google.com/presentation/d/1BiygbhpNirl03n1ti23My9dHDfvc4FWTdCJVdmOOWX4/edit#slide=id.p) by [Sanna Jokela](https://www.twitter.com/@SannaJokela1)
+
+- [GRASS GIS in the cloud: actinia geoprocessing](https://mundialis.github.io/foss4g2019/grass-gis-in-the-cloud-actinia-geoprocessing/index.html) by Carmen Tawalika
+
+- [How digging into the earth for the fibre roll-out took GRASS to the cloud](https://mundialis.github.io/foss4g2019/digging_earth_ftth_grass_actinia/2019_foss4g_bucharest_digging_earth_ftth_grass_actinia.pdf) by [Markus Neteler](https://twitter.com/MarkusNeteler/)
 
 - ... add your slides/presentation.
 
