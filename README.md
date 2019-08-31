@@ -50,7 +50,9 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [STATE OF GEOEXT 2019](http://www.geographika.net/presentations/geoext-foss4g2019/index.html) by [Seth G](https://www.twitter.com/@geographika)
 
--[STATE OF MAPSERVER 2019](http://www.geographika.net/presentations/mapserver-foss4g2019/index.html) by [Seth G](https://www.twitter.com/@geographika)
+- [STATE OF MAPSERVER 2019](http://www.geographika.net/presentations/mapserver-foss4g2019/index.html) by [Seth G](https://www.twitter.com/@geographika)
+
+- [CALCULATING CO2 EMISSIONS FOR URBAN LAND USE PLANNING WITH FOSS4G TOOLS](https://docs.google.com/presentation/d/1BiygbhpNirl03n1ti23My9dHDfvc4FWTdCJVdmOOWX4/edit#slide=id.p) by [Sanna Jokela](https://www.twitter.com/@SannaJokela1)
 
 - ... add your slides/presentation.
 
