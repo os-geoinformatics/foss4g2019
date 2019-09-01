@@ -13,6 +13,11 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [OSKARI Workshop](http://zakarfin.github.io/oskari_foss4g_2019/#/) by [Sami Mäkinen](https://www.twitter.com/@ZakarFin)
 
+- [R for Geospatial Processing](https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/) by [Nicolas Roelandt](https://www.twitter.com/@RoelandtN42)
+
+
+- [Query the Planet with EOLearn and Sentinel Data](https://github.com/sentinel-hub/eo-learn) by [Vincent Sarago](https://www.twitter.com/@_VincentS_)
+
 - .. Add your workshop
 
 
@@ -63,6 +68,8 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 - [How digging into the earth for the fibre roll-out took GRASS to the cloud](https://mundialis.github.io/foss4g2019/digging_earth_ftth_grass_actinia/2019_foss4g_bucharest_digging_earth_ftth_grass_actinia.pdf) by [Markus Neteler](https://twitter.com/MarkusNeteler/)
 
 - [Using GPU-acceleration to Interact with Geotemporal Data at Planet-Scale](https://speakerdeck.com/omnisci/foss4g-using-gpu-acceleration-to-interact-with-geotemporal-data-at-planet-scale) by [Aaron Williams](https://wwww.twitter.com/_arw_)
+
+- [Cesium applications made awesome with TerriaJS]() by [TerriaJS](https://www.twitter.com/@TerriaJS)
 
 - ... add your slides/presentation.
 
