@@ -18,6 +18,8 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Query the Planet with EOLearn and Sentinel Data](https://github.com/sentinel-hub/eo-learn) by [Vincent Sarago](https://www.twitter.com/@_VincentS_)
 
+-[patio-temporal data processing and visualization with GRASS GIS](https://github.com/veroandreo/tgrass-foss4g2019) by [veroandreo](https://github.com/veroandreo)
+
 - .. Add your workshop
 
 
@@ -70,6 +72,8 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 - [Using GPU-acceleration to Interact with Geotemporal Data at Planet-Scale](https://speakerdeck.com/omnisci/foss4g-using-gpu-acceleration-to-interact-with-geotemporal-data-at-planet-scale) by [Aaron Williams](https://wwww.twitter.com/_arw_)
 
 - [Cesium applications made awesome with TerriaJS]() by [TerriaJS](https://www.twitter.com/@TerriaJS)
+
+- [Human Geography with Open GIS](https://github.com/GIS4DEV/foss4g19/blob/master/hollerFOSS4G19.pdf) by Dr. Joseph Holler
 
 - ... add your slides/presentation.
 
