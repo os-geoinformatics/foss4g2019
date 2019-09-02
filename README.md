@@ -15,10 +15,13 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [R for Geospatial Processing](https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/) by [Nicolas Roelandt](https://www.twitter.com/@RoelandtN42)
 
-
 - [Query the Planet with EOLearn and Sentinel Data](https://github.com/sentinel-hub/eo-learn) by [Vincent Sarago](https://www.twitter.com/@_VincentS_)
 
--[patio-temporal data processing and visualization with GRASS GIS](https://github.com/veroandreo/tgrass-foss4g2019) by [veroandreo](https://github.com/veroandreo)
+- [Spatio-temporal data processing and visualization with GRASS GIS](https://github.com/veroandreo/tgrass-foss4g2019) by [veroandreo](https://github.com/veroandreo)
+
+- [FOSS tools for modelling natural hazards: the HortonMachine library](https://github.com/moovida/Workshops-Foss4g2019/releases/tag/hortonmachine-workshop) by Andrea Antonello
+
+- [Geopaparazzi: never out of data in the field](https://github.com/moovida/Workshops-Foss4g2019/releases/tag/geopaparazzi-workshop) by Andrea Antonello
 
 - .. Add your workshop
 
@@ -74,6 +77,8 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 - [Cesium applications made awesome with TerriaJS]() by [TerriaJS](https://www.twitter.com/@TerriaJS)
 
 - [Human Geography with Open GIS](https://github.com/GIS4DEV/foss4g19/blob/master/hollerFOSS4G19.pdf) by Dr. Joseph Holler
+
+- [Working with 3D city models in Python](https://github.com/balazsdukai/foss4g2019) by [Balázs Dukai](https://www.twitter.com/@BalazsDukai)
 
 - ... add your slides/presentation.
 
