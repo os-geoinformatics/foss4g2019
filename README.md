@@ -4,6 +4,11 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 :pencil2: This page is currently in update mode. Please check back for future updating of this list. If you found any link is broken or need updation, please inform us. 
 
+## Labs - Exercises
+- [A comprehensive introduction to awesome QGIS](https://github.com/iungurianu/FOSS4G2019_Lab) by [Ionut Ungurianu](https://twitter.com/IonutUngurianu)
+
+
+
 ## Workshops - Tutorials
 - [OSGeoLive Workshops](https://trac.osgeo.org/osgeolive/wiki/Live_GIS_Workshop_Install) by [Astrid Emde](https://www.twitter.com/astroidex)
 
