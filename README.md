@@ -87,5 +87,9 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Working with 3D city models in Python](https://github.com/balazsdukai/foss4g2019) by [Balázs Dukai](https://www.twitter.com/@BalazsDukai)
 
+- [From Visualization to Analysis. Stop using heatmaps to discover spatial patterns](https://docs.google.com/presentation/d/19UcySOOFwCbBEPFcYKPzQ54uUzVoOdwXLjHItKpurk0/edit?usp=sharing) by [Mykola Kozyr](https://twitter.com/MykolaKozyr)
+
+- [Reconsidering Default. Why default parameters matter and how to make them meaningful](https://docs.google.com/presentation/d/12a_7AoYidL6aO2Gy6QmZ_F45VN7fx72gvbelQO6j3rI/edit?usp=sharing) by [Mykola Kozyr](https://twitter.com/MykolaKozyr)
+
 - ... add your slides/presentation.
 
