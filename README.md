@@ -28,6 +28,8 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Geopaparazzi: never out of data in the field](https://github.com/moovida/Workshops-Foss4g2019/releases/tag/geopaparazzi-workshop) by Andrea Antonello
 
+- [Explore UK Crime Data with Pandas and GeoPandas](https://github.com/IBMDeveloperUK/foss4g-geopandas) by Margriet Groenendijk 
+
 - .. Add your workshop
 
 
