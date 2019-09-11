@@ -30,6 +30,9 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Explore UK Crime Data with Pandas and GeoPandas](https://github.com/IBMDeveloperUK/foss4g-geopandas) by Margriet Groenendijk
 
+- [PostgreSQL/PostGIS for beginners](https://github.com/astroidex/foss4g-2019-workshop-postgresql-postgis-for-beginners-aemde/blob/master/foss4g-2019-workshop-postgresql-postgis-for-beginners-aemde.md) by [Astrid Emde
+](https://twitter.com/astroidex)
+
 - .. Add your workshop
 
 
