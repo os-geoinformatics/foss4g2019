@@ -10,6 +10,7 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 
 ## Workshops - Tutorials
+- [introduction to OSGeo- OSGeo 101](https://github.com/GISMentors/osgeo-101) by 
 - [OSGeoLive Workshops](https://trac.osgeo.org/osgeolive/wiki/Live_GIS_Workshop_Install) by [Astrid Emde](https://www.twitter.com/astroidex)
 
 - [Workshop and tutorial materials for solaris](https://github.com/CosmiQ/solaris_tutorials) by [Nick Weir](https://www.twitter.com/@NickWeir09)
