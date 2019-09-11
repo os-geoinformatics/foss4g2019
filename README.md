@@ -106,4 +106,10 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Offline viewing and editing Geographic Information for Forest Fire Defense](https://github.com/mdouchin/foss4g-2019-offline-data-editing-geopoppy/blob/master/2019-08-29_Michael_Douchin_Foss4G_2019_offline_data_editing_geopoppy.pdf) by MICHAËL DOUCHIN
 
+- [Design and development of the UN Vector Tile Toolkit](https://github.com/un-vector-tile-toolkit/bucharest-paper-drafts/blob/master/presentation/Fujimura_et_al_Design_and_Development_of%20the_UN_Vector_Tile_Toolkit.pdf) by Hidenori Fujimura
+
+- [Creating Wallonia's new very high resolution land cover maps: combining GRASS GIS OBIA and OTB pixel-based results](https://github.com/savmickael/foss4G-2019)
+by Moritz Lennert
+
+
 - ... add your slides/presentation.
