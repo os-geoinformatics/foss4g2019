@@ -2,7 +2,7 @@
 
 A compilation of all presentations/slides of various talks from FOSS4G 2019 Bucharest shared via twitter. If you know link to any slides/presentation form FOSS4g 2019, please free to contribute missing slides either as a pull request or by shouting out on twitter [@programmerpunk](https://www.twitter.com/@programmerpunk)
 
-:pencil2: This page is currently in update mode. Please check back for future updating of this list. If you found any link is broken or need updation, please inform us. 
+:pencil2: This page is currently in update mode. Please check back for future updating of this list. If you found any link is broken or need updation, please inform us.
 
 ## Labs - Exercises
 - [A comprehensive introduction to awesome QGIS](https://github.com/iungurianu/FOSS4G2019_Lab) by [Ionut Ungurianu](https://twitter.com/IonutUngurianu)
@@ -28,12 +28,12 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Geopaparazzi: never out of data in the field](https://github.com/moovida/Workshops-Foss4g2019/releases/tag/geopaparazzi-workshop) by Andrea Antonello
 
-- [Explore UK Crime Data with Pandas and GeoPandas](https://github.com/IBMDeveloperUK/foss4g-geopandas) by Margriet Groenendijk 
+- [Explore UK Crime Data with Pandas and GeoPandas](https://github.com/IBMDeveloperUK/foss4g-geopandas) by Margriet Groenendijk
 
 - .. Add your workshop
 
 
-## Presentations - Academic Track
+## Presentations
 
 - [State of QGIS - Behind the Scene QGIS](https://docs.google.com/presentation/d/1D6WAnmH-1O448HlUiFaDmMoPnTR4EqDf2BHcQl5a4ZM/edit#slide=id.p) by [Andreas Neumann](https://www.twitter.com/AndiNeum)
 
@@ -91,5 +91,6 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Reconsidering Default. Why default parameters matter and how to make them meaningful](https://docs.google.com/presentation/d/12a_7AoYidL6aO2Gy6QmZ_F45VN7fx72gvbelQO6j3rI/edit?usp=sharing) by [Mykola Kozyr](https://twitter.com/MykolaKozyr)
 
-- ... add your slides/presentation.
+- [Kia Ora: Our Learnings from FOSS4G SotM Oceania](https://docs.google.com/presentation/d/155qPky_VV3YHqHqQUpirluNZ1XNXJlqTFP1Qp-YbZEg) by [Edoardo Neerhut](https://twitter.com/eneerhut), [Adam Steer](https://twitter.com/adamdsteer), [Alex Leith](https://twitter.com/alexgleith), and [John Bryant](https://twitter.com/mammothmapping)
 
+- ... add your slides/presentation.
