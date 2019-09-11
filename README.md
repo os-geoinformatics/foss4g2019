@@ -100,4 +100,10 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Finding Sasquatch or how to fake a moon landing](https://github.com/sparkgeo/FOSS4G/tree/master/FOSS4G2019/sasquatch) by James Banting
 
+- [The return of Crazy Data - Amazon Forest Fires](https://github.com/mirandadam/fires) by Mirandadam
+
+- [Lizmap to create Web Map Applications](https://github.com/mdouchin/foss4g-2019-lizmap-web-client) by Michaël DOUCHIN
+
+- [Offline viewing and editing Geographic Information for Forest Fire Defense](https://github.com/mdouchin/foss4g-2019-offline-data-editing-geopoppy/blob/master/2019-08-29_Michael_Douchin_Foss4G_2019_offline_data_editing_geopoppy.pdf) by MICHAËL DOUCHIN
+
 - ... add your slides/presentation.
