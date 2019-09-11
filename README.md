@@ -98,7 +98,6 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Kia Ora: Our Learnings from FOSS4G SotM Oceania](https://docs.google.com/presentation/d/155qPky_VV3YHqHqQUpirluNZ1XNXJlqTFP1Qp-YbZEg) by [Edoardo Neerhut](https://twitter.com/eneerhut), [Adam Steer](https://twitter.com/adamdsteer), [Alex Leith](https://twitter.com/alexgleith), and [John Bryant](https://twitter.com/mammothmapping)
 
-- [Finding Sasquatch or how to fake a moon landing](https://github.com/sparkgeo/FOSS4G/tree/master/FOSS4G2019/sasquatch) by James BantingJames Banting f
-
+- [Finding Sasquatch or how to fake a moon landing](https://github.com/sparkgeo/FOSS4G/tree/master/FOSS4G2019/sasquatch) by James Banting
 
 - ... add your slides/presentation.
