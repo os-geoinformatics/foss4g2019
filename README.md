@@ -33,6 +33,8 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 - [PostgreSQL/PostGIS for beginners](https://github.com/astroidex/foss4g-2019-workshop-postgresql-postgis-for-beginners-aemde/blob/master/foss4g-2019-workshop-postgresql-postgis-for-beginners-aemde.md) by [Astrid Emde
 ](https://twitter.com/astroidex)
 
+- [Building your own CesiumJS map, made easy with TerriaJS](https://github.com/TerriaJS/foss4g2019/tree/mobx-foss4g-bucharest/workshop) by Stephen Davies
+
 - .. Add your workshop
 
 
@@ -95,5 +97,8 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 - [Reconsidering Default. Why default parameters matter and how to make them meaningful](https://docs.google.com/presentation/d/12a_7AoYidL6aO2Gy6QmZ_F45VN7fx72gvbelQO6j3rI/edit?usp=sharing) by [Mykola Kozyr](https://twitter.com/MykolaKozyr)
 
 - [Kia Ora: Our Learnings from FOSS4G SotM Oceania](https://docs.google.com/presentation/d/155qPky_VV3YHqHqQUpirluNZ1XNXJlqTFP1Qp-YbZEg) by [Edoardo Neerhut](https://twitter.com/eneerhut), [Adam Steer](https://twitter.com/adamdsteer), [Alex Leith](https://twitter.com/alexgleith), and [John Bryant](https://twitter.com/mammothmapping)
+
+- [Finding Sasquatch or how to fake a moon landing](https://github.com/sparkgeo/FOSS4G/tree/master/FOSS4G2019/sasquatch) by James BantingJames Banting f
+
 
 - ... add your slides/presentation.
