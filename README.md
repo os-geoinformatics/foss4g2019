@@ -41,6 +41,8 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 ## Presentations
 
+- Sponsor keynote: [Using GPU-acceleration to Interact with Geotemporal Data at Planet-Scale](https://speakerdeck.com/omnisci/foss4g-using-gpu-acceleration-to-interact-with-geotemporal-data-at-planet-scale) by [Aaron Williams](https://www.linkedin.com/in/aaronwilliams/)
+
 - [State of QGIS - Behind the Scene QGIS](https://docs.google.com/presentation/d/1D6WAnmH-1O448HlUiFaDmMoPnTR4EqDf2BHcQl5a4ZM/edit#slide=id.p) by [Andreas Neumann](https://www.twitter.com/AndiNeum)
 
 - [State of GRASS GIS Project: 35 years is nothing!](https://mundialis.github.io/foss4g2019/grass_gis_35years/2019_foss4g_bucharest_grass78_35years.pdf) by [Markus Neteler](https://twitter.com/MarkusNeteler/) and [GRASS Development Team](https://twitter.com/GRASSGIS)
